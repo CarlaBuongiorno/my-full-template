@@ -23,7 +23,12 @@ This was a walk through project designed to list all the technologies I will hav
     - The logos of each technology listed is what makes the site so easy to understand at first glance.
    
 ## Features
-- Each logo is clickable, taking the user to the Wikipedia site describing the specific technology which was clicked.
+- The navigation bar is simply designed with only the headings of the three pages of the site.
+  1. Stream One
+  2. Stream Two
+  3. Stream Three
+- Each logo is clickable, taking the user to the Wikipedia site describing the specific technology which was clicked, so that if the user wishes to learn more the information is only one click away.
+- Each logo is equal in size, making for a more simplistic site and easy user experience.
 
 ## Technologies Used
 
